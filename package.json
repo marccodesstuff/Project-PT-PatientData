@@ -1,0 +1,14 @@
+{
+  "name": "pt-patientdata-prototype",
+  "version": "1.0.0",
+  "description": "A front end prototype for Project PT-PatientData",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Marc Velasquez",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
